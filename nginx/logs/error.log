@@ -1,0 +1,154 @@
+2024/02/13 20:22:39 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:22:40 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:22:41 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:22:43 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:22:44 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:22:47 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:22:51 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:22:58 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:23:11 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:23:37 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:24:29 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:25:09 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:25:10 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:25:11 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:25:12 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:25:13 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:25:15 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:25:19 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:25:26 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:25:39 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:26:05 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:26:57 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:27:48 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:27:49 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:27:50 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:27:51 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:27:53 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:27:55 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:27:59 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:28:07 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:28:20 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:28:46 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:29:32 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:29:32 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:29:33 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:29:34 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:29:35 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:29:37 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:29:41 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:29:48 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:30:02 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:30:28 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:31:20 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:32:20 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:32:40 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:32:41 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:32:41 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:32:42 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:32:43 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:32:46 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:32:49 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:32:56 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:33:02 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:33:02 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:33:03 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:33:04 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:33:05 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:33:07 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:33:11 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:33:18 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:33:31 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:33:58 [emerg] 1#1: host not found in upstream "checkout-api" in /etc/nginx/conf.d/nginx.conf:20
+2024/02/13 20:34:03 [emerg] 1#1: cannot load certificate key "/etc/certs/server.key.pem": PEM_read_bio_PrivateKey() failed (SSL: error:2807106B:UI routines:UI_process:processing error:while reading strings error:0906406D:PEM routines:PEM_def_callback:problems getting password error:0906A068:PEM routines:PEM_do_header:bad password read)
+2024/02/13 20:34:04 [emerg] 1#1: cannot load certificate key "/etc/certs/server.key.pem": PEM_read_bio_PrivateKey() failed (SSL: error:2807106B:UI routines:UI_process:processing error:while reading strings error:0906406D:PEM routines:PEM_def_callback:problems getting password error:0906A068:PEM routines:PEM_do_header:bad password read)
+2024/02/13 20:34:04 [emerg] 1#1: cannot load certificate key "/etc/certs/server.key.pem": PEM_read_bio_PrivateKey() failed (SSL: error:2807106B:UI routines:UI_process:processing error:while reading strings error:0906406D:PEM routines:PEM_def_callback:problems getting password error:0906A068:PEM routines:PEM_do_header:bad password read)
+2024/02/13 20:34:05 [emerg] 1#1: cannot load certificate key "/etc/certs/server.key.pem": PEM_read_bio_PrivateKey() failed (SSL: error:2807106B:UI routines:UI_process:processing error:while reading strings error:0906406D:PEM routines:PEM_def_callback:problems getting password error:0906A068:PEM routines:PEM_do_header:bad password read)
+2024/02/13 20:34:06 [emerg] 1#1: cannot load certificate key "/etc/certs/server.key.pem": PEM_read_bio_PrivateKey() failed (SSL: error:2807106B:UI routines:UI_process:processing error:while reading strings error:0906406D:PEM routines:PEM_def_callback:problems getting password error:0906A068:PEM routines:PEM_do_header:bad password read)
+2024/02/13 20:34:08 [emerg] 1#1: cannot load certificate key "/etc/certs/server.key.pem": PEM_read_bio_PrivateKey() failed (SSL: error:2807106B:UI routines:UI_process:processing error:while reading strings error:0906406D:PEM routines:PEM_def_callback:problems getting password error:0906A068:PEM routines:PEM_do_header:bad password read)
+2024/02/13 20:34:12 [emerg] 1#1: cannot load certificate key "/etc/certs/server.key.pem": PEM_read_bio_PrivateKey() failed (SSL: error:2807106B:UI routines:UI_process:processing error:while reading strings error:0906406D:PEM routines:PEM_def_callback:problems getting password error:0906A068:PEM routines:PEM_do_header:bad password read)
+2024/02/13 20:34:19 [emerg] 1#1: cannot load certificate key "/etc/certs/server.key.pem": PEM_read_bio_PrivateKey() failed (SSL: error:2807106B:UI routines:UI_process:processing error:while reading strings error:0906406D:PEM routines:PEM_def_callback:problems getting password error:0906A068:PEM routines:PEM_do_header:bad password read)
+2024/02/13 20:34:32 [emerg] 1#1: cannot load certificate key "/etc/certs/server.key.pem": PEM_read_bio_PrivateKey() failed (SSL: error:2807106B:UI routines:UI_process:processing error:while reading strings error:0906406D:PEM routines:PEM_def_callback:problems getting password error:0906A068:PEM routines:PEM_do_header:bad password read)
+2024/02/13 20:34:58 [emerg] 1#1: cannot load certificate key "/etc/certs/server.key.pem": PEM_read_bio_PrivateKey() failed (SSL: error:2807106B:UI routines:UI_process:processing error:while reading strings error:0906406D:PEM routines:PEM_def_callback:problems getting password error:0906A068:PEM routines:PEM_do_header:bad password read)
+2024/02/13 20:35:50 [emerg] 1#1: cannot load certificate key "/etc/certs/server.key.pem": PEM_read_bio_PrivateKey() failed (SSL: error:2807106B:UI routines:UI_process:processing error:while reading strings error:0906406D:PEM routines:PEM_def_callback:problems getting password error:0906A068:PEM routines:PEM_do_header:bad password read)
+2024/02/13 20:36:51 [emerg] 1#1: cannot load certificate key "/etc/certs/server.key.pem": PEM_read_bio_PrivateKey() failed (SSL: error:2807106B:UI routines:UI_process:processing error:while reading strings error:0906406D:PEM routines:PEM_def_callback:problems getting password error:0906A068:PEM routines:PEM_do_header:bad password read)
+2024/02/13 20:37:52 [emerg] 1#1: cannot load certificate key "/etc/certs/server.key.pem": PEM_read_bio_PrivateKey() failed (SSL: error:2807106B:UI routines:UI_process:processing error:while reading strings error:0906406D:PEM routines:PEM_def_callback:problems getting password error:0906A068:PEM routines:PEM_do_header:bad password read)
+2024/02/13 20:38:52 [emerg] 1#1: cannot load certificate key "/etc/certs/server.key.pem": PEM_read_bio_PrivateKey() failed (SSL: error:2807106B:UI routines:UI_process:processing error:while reading strings error:0906406D:PEM routines:PEM_def_callback:problems getting password error:0906A068:PEM routines:PEM_do_header:bad password read)
+2024/02/13 20:39:53 [emerg] 1#1: cannot load certificate key "/etc/certs/server.key.pem": PEM_read_bio_PrivateKey() failed (SSL: error:2807106B:UI routines:UI_process:processing error:while reading strings error:0906406D:PEM routines:PEM_def_callback:problems getting password error:0906A068:PEM routines:PEM_do_header:bad password read)
+2024/02/13 20:40:40 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2024/02/13 20:40:40 [notice] 1#1: using the "epoll" event method
+2024/02/13 20:40:40 [notice] 1#1: nginx/1.21.6
+2024/02/13 20:40:40 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2024/02/13 20:40:40 [notice] 1#1: OS: Linux 5.4.0-170-generic
+2024/02/13 20:40:40 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/02/13 20:40:40 [notice] 1#1: start worker processes
+2024/02/13 20:40:40 [notice] 1#1: start worker process 31
+2024/02/13 20:40:40 [notice] 1#1: start worker process 32
+2024/02/13 20:40:40 [notice] 1#1: start worker process 33
+2024/02/13 20:40:40 [notice] 1#1: start worker process 34
+2024/02/13 20:40:54 [error] 31#31: *1 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/02/13 20:41:00 [error] 31#31: *1 open() "/usr/share/nginx/html/info" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /info HTTP/1.1", host: "localhost"
+2024/02/13 20:41:03 [error] 31#31: *1 open() "/usr/share/nginx/html/info" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /info HTTP/1.1", host: "localhost"
+2024/02/13 20:41:06 [error] 31#31: *1 open() "/usr/share/nginx/html/status" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost"
+2024/02/13 20:41:30 [error] 31#31: *1 open() "/usr/share/nginx/html/api-docs/swagger-ui/index.html" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /api-docs/swagger-ui/index.html HTTP/1.1", host: "localhost"
+2024/02/13 20:42:40 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/02/13 20:42:40 [notice] 34#34: gracefully shutting down
+2024/02/13 20:42:40 [notice] 33#33: gracefully shutting down
+2024/02/13 20:42:40 [notice] 31#31: gracefully shutting down
+2024/02/13 20:42:40 [notice] 34#34: exiting
+2024/02/13 20:42:40 [notice] 33#33: exiting
+2024/02/13 20:42:40 [notice] 31#31: exiting
+2024/02/13 20:42:40 [notice] 31#31: exit
+2024/02/13 20:42:40 [notice] 34#34: exit
+2024/02/13 20:42:40 [notice] 33#33: exit
+2024/02/13 20:42:40 [notice] 32#32: gracefully shutting down
+2024/02/13 20:42:40 [notice] 32#32: exiting
+2024/02/13 20:42:40 [notice] 32#32: exit
+2024/02/13 20:42:40 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2024/02/13 20:42:40 [notice] 1#1: worker process 34 exited with code 0
+2024/02/13 20:42:40 [notice] 1#1: signal 29 (SIGIO) received
+2024/02/13 20:42:40 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2024/02/13 20:42:40 [notice] 1#1: worker process 31 exited with code 0
+2024/02/13 20:42:40 [notice] 1#1: signal 29 (SIGIO) received
+2024/02/13 20:42:40 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2024/02/13 20:42:40 [notice] 1#1: worker process 32 exited with code 0
+2024/02/13 20:42:40 [notice] 1#1: worker process 33 exited with code 0
+2024/02/13 20:42:40 [notice] 1#1: exit
+2024/02/13 20:42:41 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2024/02/13 20:42:41 [notice] 1#1: using the "epoll" event method
+2024/02/13 20:42:41 [notice] 1#1: nginx/1.21.6
+2024/02/13 20:42:41 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2024/02/13 20:42:41 [notice] 1#1: OS: Linux 5.4.0-170-generic
+2024/02/13 20:42:41 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/02/13 20:42:41 [notice] 1#1: start worker processes
+2024/02/13 20:42:41 [notice] 1#1: start worker process 24
+2024/02/13 20:42:41 [notice] 1#1: start worker process 25
+2024/02/13 20:42:41 [notice] 1#1: start worker process 26
+2024/02/13 20:42:41 [notice] 1#1: start worker process 27
+2024/02/13 20:42:49 [error] 24#24: *2 open() "/usr/share/nginx/html/api-docs/swagger-ui/index.html" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /api-docs/swagger-ui/index.html HTTP/1.1", host: "localhost"
+2024/02/13 20:42:52 [error] 24#24: *2 open() "/usr/share/nginx/html/api-docs/swagger-ui/index.html" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /api-docs/swagger-ui/index.html HTTP/1.1", host: "localhost"
+2024/02/13 20:42:53 [error] 24#24: *2 open() "/usr/share/nginx/html/api-docs/swagger-ui/index.html" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /api-docs/swagger-ui/index.html HTTP/1.1", host: "localhost"
+2024/02/13 20:42:53 [error] 24#24: *2 open() "/usr/share/nginx/html/api-docs/swagger-ui/index.html" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /api-docs/swagger-ui/index.html HTTP/1.1", host: "localhost"
+2024/02/13 20:43:44 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/02/13 20:43:44 [notice] 24#24: gracefully shutting down
+2024/02/13 20:43:44 [notice] 26#26: gracefully shutting down
+2024/02/13 20:43:44 [notice] 26#26: exiting
+2024/02/13 20:43:44 [notice] 24#24: exiting
+2024/02/13 20:43:44 [notice] 24#24: exit
+2024/02/13 20:43:44 [notice] 26#26: exit
+2024/02/13 20:43:44 [notice] 27#27: gracefully shutting down
+2024/02/13 20:43:44 [notice] 25#25: gracefully shutting down
+2024/02/13 20:43:44 [notice] 25#25: exiting
+2024/02/13 20:43:44 [notice] 25#25: exit
+2024/02/13 20:43:44 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2024/02/13 20:43:44 [notice] 1#1: worker process 24 exited with code 0
+2024/02/13 20:43:44 [notice] 1#1: worker process 26 exited with code 0
+2024/02/13 20:43:44 [notice] 1#1: signal 29 (SIGIO) received
+2024/02/13 20:43:44 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2024/02/13 20:43:44 [notice] 1#1: worker process 25 exited with code 0
+2024/02/13 20:43:44 [notice] 1#1: signal 29 (SIGIO) received
+2024/02/13 20:43:47 [notice] 27#27: exiting
+2024/02/13 20:43:47 [notice] 27#27: exit
+2024/02/13 20:43:47 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2024/02/13 20:43:47 [notice] 1#1: worker process 27 exited with code 0
+2024/02/13 20:43:47 [notice] 1#1: exit

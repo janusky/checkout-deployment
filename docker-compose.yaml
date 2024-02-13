@@ -1,0 +1,78 @@
+version: "3.9"
+
+services:
+  checkout-api:
+    container_name: checkout-api
+    image: janusky/checkout-api:demo
+    environment:
+      - SPRING_PROFILES_ACTIVE=demo
+      - APP_PORT=8081
+      - PORT_ACTUATOR=8092
+      # Proxy
+      - VIRTUAL_PORT=8081
+      - VIRTUAL_HOST=localhost
+      - CERT_NAME=localhost.crt
+    network_mode: "host"
+    depends_on:
+      - checkout-payment-api
+    volumes:
+        - $PWD/checkout-api:/app/config
+ 
+  checkout-payment-api:
+    container_name: checkout-payment-api
+    image: janusky/checkout-payment-api:demo
+    environment:
+      - SPRING_PROFILES_ACTIVE=demo
+      - APP_PORT=8080
+      - PORT_ACTUATOR=8091
+    network_mode: "host"
+    depends_on:
+      - database
+    volumes:
+        - $PWD/checkout-payment-api/config:/app/config
+ 
+  database:
+    container_name: database
+    image: postgres:16.1
+    ports:
+      - "5432:5432"
+    environment:
+      - ALLOW_EMPTY_PASSWORD=yes
+      - POSTGRES_PASSWORD=postgres
+    volumes:
+      - $PWD/checkout-payment-api/data-init.sql:/docker-entrypoint-initdb.d/1-init.sql
+
+  # proxy:
+  #   image: jwilder/nginx-proxy:1.3.1
+  #   container_name: proxy
+  #   environment:
+  #     - DEFAULT_HOST=localhost
+  #   ports:
+  #     - "80:80"
+  #     - "443:443"
+  #   volumes:
+  #     - /var/run/docker.sock:/tmp/docker.sock:ro
+  #     - $PWD/nginx/certs:/etc/nginx/certs
+
+#   nginx:
+#     restart: always
+#     image: nginx:1.21.6
+#     # build: ./nginx
+#     environment:
+#       TZ: America/Argentina/Buenos_Aires
+#     ports:
+#       - "80:80"
+#       - "443:443"
+#     volumes:
+#       - app-static:/usr/src/app/static
+#       - $PWD/nginx/logs:/var/log/nginx
+#       - $PWD/nginx/nginx.conf:/etc/nginx/conf.d/nginx.conf:ro
+#       - $PWD/nginx/certs/local.localhost.crt:/etc/certs/server.cert.pem
+#       - $PWD/nginx/certs/localhost.key:/etc/certs/server.key.pem
+#       - $PWD/nginx/certs/localhost.crt:/etc/certs/ca-chain.cert.pem
+#       - $PWD/nginx/certs/global.pass:/etc/keys/global.pass
+#     # links:
+#     #   - checkout-api:checkout-api
+
+# volumes:
+#   app-static:
